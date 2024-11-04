@@ -1,0 +1,6 @@
+Package     Version
+----------- -------
+mysql       0.0.3
+mysqlclient 2.2.5
+pip         24.0
+setuptools  65.5.0
